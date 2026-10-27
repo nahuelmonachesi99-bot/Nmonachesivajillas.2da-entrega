@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+h1,h2,h3,h4,h5,h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 2rem;
+}
+p{
+    font-size: 1rem;
+    font-weight: 700;
+}
+section p{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+figcaption{
+    font-size: 0.80rem;
+    font-weight: 200;
+    font-family: cursive;
+    color:darkred
+
+}
+li{
+font-family: lobster; 
+}
+.logo{
+    height: 10vh;
+    width: auto;
+}
+.vajillas{
+    height: 50vh;
+    width: 50vh;
+}
+.video{
+    height: auto;
+    width: 50vh;
+}
+#contacto{
+    font-size: 1,2rem;
+}
+.rrss{
+    height: auto;
+    width: 10vh;
+}
